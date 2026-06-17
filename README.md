@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Aliana 👋
 
-<!--
-**aliana728/Aliana728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Tech Content Creator | B.Sc. IT Student**
 
-Here are some ideas to get you started:
+## About Me
+Self-taught frontend dev building cool stuff. I run a **tech education YouTube channel** with tutorials on JavaScript, React, Python, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Projects
+- **JARVIS/ASTRA** — AI chat assistant using Google Gemini API + Web Speech API
+- **Tech Video Dashboard** — Dashboard using destructuring & modern JS
+- **fashion-boutique** — Responsive fashion website (HTML/CSS/JS)
+- **memory-GAME** — Browser-based memory card game
+- **tic-and-tac** — Tic Tac Toe with dynamic updates
+
+## 📚 Currently Learning
+- JavaScript: closures, `this` keyword, rest parameters
+- MERN Stack (Node.js → Express → MongoDB → React)
+- Full-stack development & deployment
+
+## 📺 YouTube & Content
+- Faceless tech education channel (Python, JS, Web Dev)
+- AI-powered content with ElevenLabs, HeyGen, CapCut
+- [YouTube Channel](#) | [Instagram](#)
+
+## 🔗 Connect
+- **GitHub:** github.com/aliana728
+- **LinkedIn:** linkedin.com/in/aliana-rodrigues-792a81382
+  
