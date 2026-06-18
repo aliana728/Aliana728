@@ -17,10 +17,6 @@ Self-taught frontend dev building cool stuff. I run a **tech education YouTube c
 - MERN Stack (Node.js → Express → MongoDB → React)
 - Full-stack development & deployment
 
-## 📺 YouTube & Content
-- Faceless tech education channel (Python, JS, Web Dev)
-- AI-powered content with ElevenLabs, HeyGen, CapCut
-- [YouTube Channel](#) | [Instagram](#)
 
 ## 🔗 Connect
 - **GitHub:** github.com/aliana728
